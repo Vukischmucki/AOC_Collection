@@ -21,4 +21,3 @@ public enum LightOperation {
 
     public abstract int apply(int brightness);
 }
-
